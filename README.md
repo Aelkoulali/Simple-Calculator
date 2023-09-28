@@ -1,4 +1,4 @@
-# Simple Calculator Using HTML, CSS and JavaScript
+# Simple Calculator using HTML, CSS & JavaScript
 
 ## Js
 ### Function clear all the values
