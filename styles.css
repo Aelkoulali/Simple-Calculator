@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
 
-h1 {
-  background-color: #04aa6d;
+h1 { 
+  background-color: #04aa6d;  
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  display: block;        /* change this */
+  width: fit-content;    /* shrink to content */
+  margin: 20px auto;  
+  border-radius: 15px;   /* centers horizontally */
 }
 .calculator {
   padding: 10px;
