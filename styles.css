@@ -12,9 +12,9 @@ h1 {
   border-radius: 15px;   /* centers horizontally */
 }
 .calculator {
-  padding: 10px;
+  padding: 15px 10px;
   border-radius: 1em;
-  height: 380px;
+  height: 600px;
   width: 400px;
   margin: auto;
   background-color: #191b28;
@@ -27,7 +27,7 @@ h1 {
   background-color: #dcdbe1;
   border: solid black 0.5px;
   color: black;
-  border-radius: 15px;
+  border-radius: 50px;
   width: 100%;
   height: 65%;
 }
@@ -40,7 +40,7 @@ input[type="button"] {
   color: white;
   border: solid black 0.5px;
   width: 100%;
-  border-radius: 15px;
+  border-radius: 50px;
   height: 70%;
   outline: none;
 }
