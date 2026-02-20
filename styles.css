@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+h1 {
+    display : flex;
+}
 .calculator {
     padding: 10px;
     border-radius: 1em;
