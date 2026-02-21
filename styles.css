@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
 
+body {
+  background-color: #e0e0e0;
+}
+
 h1 { 
   background-color: #04aa6d;  
   border: none;
