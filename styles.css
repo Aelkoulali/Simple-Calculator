@@ -21,13 +21,20 @@ h1 {
 .calculator {
   padding: 15px 10px;
   border-radius: 1em;
-  height: 600px;
-  width: 400px;
+  height: 800px;
+  width: 500px;
   margin: auto;
   background-color: #9299bb;
   border: solid black 0.5px;
   box-shadow: 10px 10px 0px 0px #3d3a36 ;
 }
+
+.calculator td {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+}
+
 .display-box {
   font-family: "Orbitron", sans-serif;
   background-color: #dcdbe1;
@@ -37,7 +44,7 @@ h1 {
   font-weight: bold;
   border-radius: 50px;
   width: 95%;
-  height: 65%;
+  height: 90px;
 }
 
 #btn {
@@ -53,10 +60,9 @@ input[type="button"] {
   font-size: 25px;
   font-weight : bold;
   border: solid black 0.5px;
-  width: 65%;
+  width: 90px;
   border-radius: 50%;
-  height: 65%;
-  outline: none;
+  height: 90px;
 }
 input:active[type="button"] {
   background: #e5e5e5;
