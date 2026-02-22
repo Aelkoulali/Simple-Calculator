@@ -42,6 +42,9 @@ h1 {
 
 #btn {
   background-color: #fb8600;
+  width: 100%;
+  height: 100%;
+  border-radius : 50%;
 }
 input[type="button"] {
   font-family: "Roboto Slab", sans-serif;
@@ -50,9 +53,9 @@ input[type="button"] {
   font-size: 25px;
   font-weight : bold;
   border: solid black 0.5px;
-  width: 100%;
-  border-radius: 50px;
-  height: 70%;
+  width: 65%;
+  border-radius: 50%;
+  height: 65%;
   outline: none;
 }
 input:active[type="button"] {
