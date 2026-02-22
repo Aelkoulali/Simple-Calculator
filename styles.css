@@ -49,8 +49,8 @@ h1 {
 
 #btn {
   background-color: #fb8600;
-  width: 65%;
-  height: 65%;
+  width: 90px;
+  height: 90px;
   border-radius : 50%;
 }
 input[type="button"] {
