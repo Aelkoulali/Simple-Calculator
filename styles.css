@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap");
 
 body {
   background-color: #49c5f7;
@@ -6,17 +6,17 @@ body {
   font-size: 400;
 }
 
-h1 { 
-  background-color: #04aa6d;  
+h1 {
+  background-color: #04aa6d;
   border: none;
   color: white;
   padding: 10px 20px;
   text-align: center;
-  display: block;        /* change this */
-  width: fit-content;    /* shrink to content */
-  margin: 20px auto;  
-  border-radius: 15px;   /* centers horizontally */
-  box-shadow: 10px 10px 0px 0px #3d3a36 ;
+  display: block; /* change this */
+  width: fit-content; /* shrink to content */
+  margin: 20px auto;
+  border-radius: 15px; /* centers horizontally */
+  box-shadow: 10px 10px 0px 0px #3d3a36;
 }
 .calculator {
   padding: 15px 10px;
@@ -24,8 +24,8 @@ h1 {
   height: 800px;
   width: 500px;
   margin: auto;
-  background-color: #9299bb;  
-  box-shadow: 10px 10px 0px 0px #3d3a36 ;
+  background-color: #9299bb;
+  box-shadow: 10px 10px 0px 0px #3d3a36;
 }
 
 .calculator td {
@@ -50,7 +50,7 @@ h1 {
   background-color: #fb8600;
   width: 90px;
   height: 90px;
-  border-radius : 50%;
+  border-radius: 50%;
   color: black;
 }
 input[type="button"] {
@@ -58,7 +58,7 @@ input[type="button"] {
   background-color: #64278f;
   color: white;
   font-size: 25px;
-  font-weight : bold;
+  font-weight: bold;
   border: solid black 0.5px;
   width: 90px;
   border-radius: 50%;
