@@ -1,11 +1,17 @@
 # 🗂️ Calculator App 📱
 
-## ➡️ Key Concepts :
+A simple Calculator App built with HTML, CSS, and JavaScript. It supports basic arithmetic and updates the display as you interact.
 
-### ✅ JavaScript, HTML & CSS
+## ✅ Key Features
+- **Display values** on the calculator screen
+- **Calculate** results
+- **Clear (AC)** to reset all values
+- Supports operations: **+ , - , * , /** and **decimal (.)**
 
-### ✅ Function clear all the values
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-### ✅ Function display values
-
-### ✅ Function calculate and return result
+## ▶️ How to Run
+1. Open `index.html` in your browser.
