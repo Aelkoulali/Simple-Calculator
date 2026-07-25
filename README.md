@@ -14,4 +14,4 @@ A simple Calculator App built with HTML, CSS, and JavaScript. It supports basic 
 - JavaScript
 
 ## ▶️ How to Run
-1. Open `index.html` in your browser.
+- Open `index.html` in your browser.
