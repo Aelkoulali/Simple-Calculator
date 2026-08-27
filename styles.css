@@ -18,6 +18,7 @@ h1 {
   border-radius: 15px; /* centers horizontally */
   box-shadow: 10px 10px 0px 0px #3d3a36;
 }
+
 .calculator {
   padding: 15px 10px;
   border-radius: 1em;
@@ -53,6 +54,7 @@ h1 {
   border-radius: 50%;
   color: black;
 }
+
 input[type="button"] {
   font-family: "Roboto Slab", sans-serif;
   background-color: #64278f;
